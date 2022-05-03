@@ -1,0 +1,51 @@
+body
+{
+    background-color:oldlace;
+    
+   
+}
+
+nav.navbar 
+{
+    background-color: #FF7800;
+}
+
+.titulo 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.imagen 
+{
+   display: block;
+   margin: auto;
+
+}
+
+
+.logo 
+{
+    width: 150px;
+    left: 5px;
+    top: 5px;
+
+}
+
+
+.texto 
+{
+    text-align:justify;
+}
+
+.text
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+}
+
+
+
+.santa 
+{
+    background-color: #FF7800;
+}
